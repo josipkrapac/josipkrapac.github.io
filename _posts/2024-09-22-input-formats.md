@@ -22,11 +22,11 @@ The goal of this group of methods is to achieve result as close possible to more
 We distinguish between the methods that start from an existing object and modify it so the modified object has structure and function closer to the target one, and de novo methods that don't start from an existing object.
 #### Template-based design
 #### Rational design
-This group of methods assumes the knowledge about relationships between sequence that describes the object and its structure and function to guide sequence changes that yield the target sequence whose structure or function are close to target one. 
+This group of methods assumes the knowledge about relationships between the specific initial sequence that describes the object and its structure and function to guide sequence changes that yield the target sequence whose structure or function are close to target one. 
 #### Directed evolution
 This group of methods mimics evolution, exploring the space of sequences without guidance. It's more time consuming, but assumes less.
 #### De novo design
-Instead of starting from an existing candidate, de novo design starts from scratch, starting from target structure and properties and a model that is constrained by physical and chemical principles that is used to produce a set of candidates with target properties.
+Instead of starting from an existing candidate, de novo design starts from scratch, starting from target structure and properties and a model that is constrained by fundamental physical and chemical principles that is used to produce a set of candidates with target properties.
 
 ### Courses and materials 
 - [Biochemistry 1 @ MIT](https://ocw.mit.edu/courses/5-07sc-biological-chemistry-i-fall-2013/)
