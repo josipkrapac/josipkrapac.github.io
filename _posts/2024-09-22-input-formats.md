@@ -32,3 +32,4 @@ Instead of starting from an existing candidate, de novo design starts from scrat
 - [Biochemistry 1 @ MIT](https://ocw.mit.edu/courses/5-07sc-biological-chemistry-i-fall-2013/)
 - [Biochemistry 2 # MIT](https://ocw.mit.edu/courses/5-08j-biological-chemistry-ii-spring-2016/)
 - [Open Catalyst Project](https://opencatalystproject.org/)
+- ["Fake it until you make it? Generative De Novo Design and Virtual Screening of Synthesizable Molecules"](https://chemrxiv.org/engage/chemrxiv/article-details/64ad5354ba3e99daefe70a18)
