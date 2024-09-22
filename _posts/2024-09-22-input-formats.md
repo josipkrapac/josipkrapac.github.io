@@ -13,7 +13,11 @@ author: Josip Krapac
 
 ## Tasks
 ### Structure and properties prediction
-Best results are obtained using quantum mechanical simulations, which capture the problem at the level of atoms, but these are slow. The goal of this group of methods is to achieve result as close possible to more precise ones, by employing ML methods that are orders of magnitude faster.
+The assumption in this case is that we have a pool of candidates whose structure and properties we want to predict. 
+
+Best results are obtained using quantum mechanical simulations, which capture the problem at the level of atoms, but these are computationally complex and therefore slow. 
+
+The goal of this group of methods is to achieve result as close possible to more precise ones, by employing ML methods that are orders of magnitude faster. This enables exploration of an exponentially bigger pool of candidates in the same amount of time, or directed search by sequentially exploring the space of candidates, adding batches of candidates to the pool.
 ### Sequence / composition design
 #### Rational design
 #### Directed evolution
