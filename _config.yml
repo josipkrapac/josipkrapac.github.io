@@ -1,11 +1,13 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme 
-
 title: Josip Krapac
 author: Josip Krapac
 show_downloads: false
 google_analytics: G-CENWY5VSVJ
+
+# theme: jekyll-theme-minimal
+
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+#   - jekyll-remote-theme 
 
 social_links:
   linkedin: https://www.linkedin.com/in/josip-krapac-6906471/
