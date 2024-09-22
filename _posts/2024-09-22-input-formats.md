@@ -16,3 +16,8 @@ author: Josip Krapac
 ### Sequence / composition design
 #### Rational design
 #### Directed evolution
+
+### Courses and materials 
+- [Biochemistry 1 @ MIT](https://ocw.mit.edu/courses/5-07sc-biological-chemistry-i-fall-2013/)
+- [Biochemistry 2 # MIT](https://ocw.mit.edu/courses/5-08j-biological-chemistry-ii-spring-2016/)
+- [Open Catalyst Project](https://opencatalystproject.org/)
