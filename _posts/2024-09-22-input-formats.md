@@ -19,13 +19,13 @@ Best results are obtained using quantum mechanical simulations, which capture th
 
 The goal of this group of methods is to achieve result as close possible to more precise ones, by employing ML methods that are orders of magnitude faster. This enables exploration of an exponentially bigger pool of candidates in the same amount of time, or directed search by sequentially exploring the space of candidates, adding batches of candidates to the pool.
 ### Sequence / composition design
-### De Novo design
 
+#### Template-based design
 #### Rational design
 This group of methods assumes the knowledge about relationships between sequence that describes the object and its structure and function to guide sequence changes that yield the target sequence whose structure or function are close to target one. 
 #### Directed evolution
 This group of methods mimics evolution, exploring the space of sequences without guidance. It's more time consuming, but assumes less.
-### De novo design
+#### De novo design
 Instead of starting from an existing candidate, de novo design starts from scratch, starting from target structure and properties and a model that is constrained by physical and chemical principles that is used to produce a set of candidates with target properties.
 
 ### Courses and materials 
