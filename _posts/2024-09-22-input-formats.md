@@ -17,7 +17,7 @@ The assumption in this case is that we have a pool of candidates whose structure
 
 Best results are obtained using quantum mechanical simulations, which capture the problem at the level of atoms, but these are computationally complex and therefore slow. 
 
-The goal of this group of methods is to achieve result as close possible to more precise ones, by employing ML methods that are orders of magnitude faster. This enables exploration of an exponentially bigger pool of candidates in the same amount of time, or directed search by sequentially exploring the space of candidates, adding batches of candidates to the pool.
+The goal of this group of methods is to achieve result as close possible to more precise ones, by employing ML methods that are orders of magnitude faster. This enables exploration of an order of magnitude bigger pool of candidates in the same amount of time, or directed search by sequentially exploring the space of candidates, adding batches of candidates to the pool.
 ### Sequence / composition design
 We distinguish between the methods that start from an existing object and modify it so the modified object has structure and function closer to the target one, and de novo methods that don't start from an existing object. The main challenge is the size of the candidate space and that we're optimizing for multiple properties which often requires trade-offs between optimizing for one or the other property.
 #### Template-based design
