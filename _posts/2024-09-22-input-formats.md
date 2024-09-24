@@ -12,13 +12,13 @@ author: Josip Krapac
 - The rest start from [here](https://www.perplexity.ai/search/what-file-formats-are-used-for-3c.x9TLBS_abC0Wm6hN7aQ)
 
 ## Tasks
-### Structure and properties prediction
+### Forward: from sequence predict structure and properties
 The assumption in this case is that we have a pool of candidates whose structure and properties we want to predict. 
 
 Best results are obtained using quantum mechanical simulations, which capture the problem at the level of atoms, but these are computationally complex and therefore slow. 
 
 The goal of this group of methods is to achieve result as close possible to more precise ones, by employing ML methods that are orders of magnitude faster. This enables exploration of an order of magnitude bigger pool of candidates in the same amount of time, or directed search by sequentially exploring the space of candidates, adding batches of candidates to the pool.
-### Sequence / composition design
+### Backward: from properties or structure design sequence
 We distinguish between the methods that start from an existing object and modify it so the modified object has structure and function closer to the target one, and de novo methods that don't start from an existing object. The main challenge is the size of the candidate space and that we're optimizing for multiple properties which often requires trade-offs between optimizing for one or the other property.
 #### Template-based design
 #### Rational design
