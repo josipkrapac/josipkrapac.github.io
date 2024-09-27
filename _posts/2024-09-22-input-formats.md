@@ -33,5 +33,8 @@ Instead of starting from an existing candidate, de novo design starts from scrat
 - [Biochemistry 2 # MIT](https://ocw.mit.edu/courses/5-08j-biological-chemistry-ii-spring-2016/)
 - [Generative AI in drug discovery](https://youtube.com/playlist?list=PLAXC54QmQTfz5Pk_3yq9RfLaU0b13lWgF&si=H_wFY0UauuOh4pN6)
 - [Open Catalyst Project](https://opencatalystproject.org/)
+
+#### Reading list
 - ["Fake it until you make it? Generative De Novo Design and Virtual Screening of Synthesizable Molecules"](https://chemrxiv.org/engage/chemrxiv/article-details/64ad5354ba3e99daefe70a18)
 - ["Generative discovery of de novo chemical designs using diffusion modeling and transformer deep neural networks with application to deep eutectic solvents"](https://pubs.aip.org/aip/apl/article/122/23/234103/2894780/Generative-discovery-of-de-novo-chemical-designs?utm_source=perplexity)
+- ["Scaling deep learning for materials discovery"](https://www.nature.com/articles/s41586-023-06735-9)
