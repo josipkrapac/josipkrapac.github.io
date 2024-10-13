@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /robots.txt
 ---
 
 Hi! I'm Josip, I work in [Zalando](http://zalando.com), a Berlin-based fashion and lifestyle e-commerce company, and Europe's biggest fashion online retailer. I work on hybrid and neural information retrieval, interactive search and [information retrieval evaluation in e-commerce using multi-modal large language models](https://arxiv.org/abs/2409.11860). 
